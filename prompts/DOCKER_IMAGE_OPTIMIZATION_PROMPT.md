@@ -45,7 +45,16 @@ Please provide a complete and production-ready Dockerfile example for a simple a
 
 
 
+
 ## 🔰 Example Usage
 
 Simply copy the above prompt and paste it into ChatGPT, GitHub Copilot, or another LLM along with your tech stack (e.g., "for a Python Flask app", "for a Node.js + React build", etc.) to receive an optimized Dockerfile template tailored to your needs.
+
+
+
+
+---
+**Based on best practices from [Docker Deep Dive]([https://www.nigelpoulton.com/books/](https://books.google.de/books?id=nBDIEAAAQBAJ&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false)) by Nigel Poulton and industry-leading DevOps methodologies.**
+
+
 
