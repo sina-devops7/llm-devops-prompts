@@ -7,3 +7,6 @@ A professional, ready-to-use collection of prompts for Large Language Models (Ch
 - [Optimized Dockerfile Image Prompt](./prompts/DOCKER_IMAGE_OPTIMIZATION_PROMPT.md)
 - [Docker Compose File Generator Prompt](./prompts/DOCKER_COMPOSE_PROMPT.md)
 - [Kubernetes YAML Generator Prompt](./prompts/KUBERNETES_OPTIMIZED_PROMPT.md)
+
+
+See [DOCKER_IMAGE_OPTIMIZATION_PROMPT.md](./DOCKER_IMAGE_OPTIMIZATION_PROMPT.md) for a ready-to-use LLM prompt on Dockerfile best practices.
