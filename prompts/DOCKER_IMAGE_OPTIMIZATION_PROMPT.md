@@ -6,6 +6,7 @@ This prompt is designed to help developers and DevOps engineers leverage modern 
 
 ## 📝 Copy-Paste Prompt
 
+```
 Write a Dockerfile to build my application’s image according to the highest standards of image optimization and security. Be sure to fully implement and explain the following best practices in your solution:
 
 1. **Minimal Base Image**:  
@@ -39,22 +40,15 @@ Write a Dockerfile to build my application’s image according to the highest st
    - Add concise comments explaining any non-trivial commands or steps for clarity and maintainability.
 
 10. **Final Image Efficiency and Validation**:  
-   - Print the final image size at the end. Provide `docker image ls` and `docker history` commands for further analysis.
+   - Print the final image size at the end. Provide docker image ls and docker history commands for further analysis.
 
 Please provide a complete and production-ready Dockerfile example for a simple application (e.g., Node.js, Python, or Go), following the above rules, and include comments for each important line.
-
-
-
+```
 
 ## 🔰 Example Usage
 
 Simply copy the above prompt and paste it into ChatGPT, GitHub Copilot, or another LLM along with your tech stack (e.g., "for a Python Flask app", "for a Node.js + React build", etc.) to receive an optimized Dockerfile template tailored to your needs.
 
-
-
-
 ---
-**Based on best practices from [Docker Deep Dive]([https://www.nigelpoulton.com/books/](https://books.google.de/books?id=nBDIEAAAQBAJ&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false)) by Nigel Poulton and industry-leading DevOps methodologies.**
 
-
-
+**Based on best practices from [Docker Deep Dive](https://books.google.de/books?id=nBDIEAAAQBAJ&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false) by Nigel Poulton and industry-leading DevOps methodologies.**
