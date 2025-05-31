@@ -2,6 +2,9 @@
 
 > Copy-paste this prompt into your favorite LLM (ChatGPT, Copilot, etc.) to generate highly optimized, secure, and production-ready Dockerfiles for any project.
 
+This prompt is designed to help developers and DevOps engineers leverage modern Large Language Models (LLMs) for generating Docker images that strictly adhere to best practices for image optimization and security, as outlined in authoritative sources like "Docker Deep Dive".
+
+## 📝 Copy-Paste Prompt
 
 Write a Dockerfile to build my application’s image according to the highest standards of image optimization and security. Be sure to fully implement and explain the following best practices in your solution:
 
