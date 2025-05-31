@@ -1,3 +1,8 @@
+# 🚀 Professional Prompt for Optimized Docker Images
+
+> Copy-paste this prompt into your favorite LLM (ChatGPT, Copilot, etc.) to generate highly optimized, secure, and production-ready Dockerfiles for any project.
+
+
 Write a Dockerfile to build my application’s image according to the highest standards of image optimization and security. Be sure to fully implement and explain the following best practices in your solution:
 
 1. **Minimal Base Image**:  
