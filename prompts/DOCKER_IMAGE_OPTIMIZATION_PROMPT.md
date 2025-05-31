@@ -42,3 +42,10 @@ Write a Dockerfile to build my application’s image according to the highest st
    - Print the final image size at the end. Provide `docker image ls` and `docker history` commands for further analysis.
 
 Please provide a complete and production-ready Dockerfile example for a simple application (e.g., Node.js, Python, or Go), following the above rules, and include comments for each important line.
+
+
+
+## 🔰 Example Usage
+
+Simply copy the above prompt and paste it into ChatGPT, GitHub Copilot, or another LLM along with your tech stack (e.g., "for a Python Flask app", "for a Node.js + React build", etc.) to receive an optimized Dockerfile template tailored to your needs.
+
